@@ -21,3 +21,5 @@
 8. **Git checkout master** - вернуться к актуальному состоянию и продолжить работать
 
 9. **Git diff** - увидеть разницу между текущем файлом и закоммиченным файлом
+
+![](https://www.shutterstock.com/shutterstock/videos/1060924501/thumb/8.jpg?ip=x480)
