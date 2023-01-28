@@ -18,4 +18,5 @@
 
 **Git diff** - увидеть разницу между текущем файлом и закоммиченным файлом
 
-Сайт Geek Brains [LINK](https://gb.ru)
+_Сайт Geek Brains_ [LINK](https://gb.ru)
+
