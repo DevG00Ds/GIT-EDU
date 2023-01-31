@@ -37,3 +37,5 @@
 12. **Git checkout name_branch** - переход к другой ветке
 
 13. **Git branch - d name_branch** - удалить ветку
+
+14. uhsfosasfsdfsfsdfgit 
