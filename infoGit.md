@@ -39,3 +39,4 @@
 13. **Git branch - d name_branch** - удалить ветку
 
 14. uhsfosasfsdfsfsdfgit 
+14.  jesgoiudshgiopdsuhfoiudsfhoudsfhgodsfhg
