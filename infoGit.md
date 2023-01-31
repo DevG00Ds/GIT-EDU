@@ -37,3 +37,7 @@
 12. **Git checkout name_branch** - переход к другой ветке
 
 13. **Git branch - d name_branch** - удалить ветку
+
+14. **Git merge** - Слить ветку
+
+15. **Git merge --abort** - отменить слияние, которое прошло с конфликтом
